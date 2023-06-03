@@ -5,4 +5,4 @@
 ---
 
 ## HOW TO RUN
-Simply
+Simply download it
