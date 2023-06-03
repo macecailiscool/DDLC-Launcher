@@ -9,6 +9,6 @@
 - Then, simply `extract the files to the root of your DDLC installation.`
 - Now, run `DDLC Launcher.bat`
 
-##To verify the integrity of this program, make sure to check the Releases tab, which I have included the MD5
+## To verify the integrity of this program, make sure to check the Releases tab, which I have included the MD5
 
 ## This program is in no way affiliated with Dan Salvato or Team Salvato.
